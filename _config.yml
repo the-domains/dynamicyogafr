@@ -23,7 +23,7 @@ color:
     - '#b07660'
     - '#cd3c06'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 1
+  lightness: 0.3125
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
