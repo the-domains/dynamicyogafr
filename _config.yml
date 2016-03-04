@@ -1,6 +1,6 @@
 name: Dynamicyogafrance
 favicon: null
-layout_spectrum: 0.15047
+layout_spectrum: 0.7566
 typography_spectrum: 0.30027
 title: Dynamic Yoga France
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b85957'
     - '#3c2f07'
     - '#5a9370'
-  brandStrength: 0
+  brandStrength: 0.0625
   lightness: 0.4375
   saturation: 0.125
   rhythmicContrast: 0.5
