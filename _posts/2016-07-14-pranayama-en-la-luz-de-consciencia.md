@@ -12,8 +12,8 @@ description: >-
   en nombre de yoga, ya sea sobre una esterilla o un cojín, tiene un parecido y
   una relación más directos con los textos medievales más recientes, como el
   Hatha Yoga Pradipika.
-datePublished: '2016-07-14T12:50:29.821Z'
-dateModified: '2016-07-14T12:50:01.979Z'
+datePublished: '2016-07-14T13:40:42.870Z'
+dateModified: '2016-07-14T12:50:37.852Z'
 author:
   - name: Super User
     url: null
