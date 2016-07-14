@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Super User
-    url: null
-    avatar: {}
-related: []
-publisher:
-  url: 'http://yogadinamico.com'
-  name: Yoga Dinámico
-  favicon: 'http://yogadinamico.com/templates/yoo_nano/favicon.ico'
-  domain: yogadinamico.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://yogadinamico.com/blog/187-pranayama-en-la-luz-de-consciencia'
+inLanguage: es
 keywords: []
 description: >-
   Según parece, Pranayama tuvo alguna vez un lugar más central en la práctica de
@@ -17,17 +12,23 @@ description: >-
   en nombre de yoga, ya sea sobre una esterilla o un cojín, tiene un parecido y
   una relación más directos con los textos medievales más recientes, como el
   Hatha Yoga Pradipika.
-inLanguage: es
+datePublished: '2016-07-14T12:50:29.821Z'
+dateModified: '2016-07-14T12:50:01.979Z'
+author:
+  - name: Super User
+    url: null
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://yogadinamico.com/blog/187-pranayama-en-la-luz-de-consciencia'
 title: Pranayama en la luz de Consciencia
-datePublished: '2016-07-14T12:45:32.847Z'
-dateModified: '2016-07-14T12:44:55.224Z'
-starred: false
 sourcePath: _posts/2016-07-14-pranayama-en-la-luz-de-consciencia.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Yoga Dinámico
+  domain: yogadinamico.com
+  url: 'http://yogadinamico.com'
+  favicon: 'http://yogadinamico.com/templates/yoo_nano/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
