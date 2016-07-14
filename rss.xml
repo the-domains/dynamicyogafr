@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamic Yoga France]]></description>
         <link>http://dynamicyoga.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 12:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 12:59:13 GMT</lastBuildDate>
         <atom:link href="http://dynamicyoga.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamic Yoga France]]></title>
@@ -12,6 +12,13 @@
             <link>http://dynamicyoga.fr/c38d5f70-2fa9-468d-be1e-9aaa6e744e1a/index.html</link>
             <guid isPermaLink="false">c38d5f70-2fa9-468d-be1e-9aaa6e744e1a</guid>
             <pubDate>Thu, 14 Jul 2016 12:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red Earth Centre]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/665bcaa9-a85c-4134-addb-7a0ba6cf53a0.jpg">]]></description>
+            <link>http://dynamicyoga.fr/8c7b2c34-a330-45ee-ab99-9ae7dd2ac036/index.html</link>
+            <guid isPermaLink="false">8c7b2c34-a330-45ee-ab99-9ae7dd2ac036</guid>
+            <pubDate>Thu, 14 Jul 2016 12:59:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pranayama en la luz de Consciencia]]></title>
@@ -67,13 +74,6 @@
             <link>https://soundcloud.com/godfridev/yoga-and-transcendental-ideology</link>
             <guid isPermaLink="false">c546a07d-dbad-4b31-a4a6-4b4490dfe541</guid>
             <pubDate>Mon, 15 Feb 2016 19:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Makes A Yoga Posture? by godfridev]]></title>
-            <description><![CDATA[<article><h1>What Makes A Yoga Posture? by godfridev</h1><p>Godfri sharing his view on what makes a shape admissible to the yoga party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93a9ed383b708fe7e1f739541ee337d587c2dc67.jpg"></article>]]></description>
-            <link>https://soundcloud.com/godfridev/what-makes-a-yoga-posture</link>
-            <guid isPermaLink="false">06962349-f799-45dd-a233-dc7e2865632a</guid>
-            <pubDate>Mon, 15 Feb 2016 19:20:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
