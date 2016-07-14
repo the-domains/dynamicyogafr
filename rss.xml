@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamic Yoga France]]></description>
         <link>http://dynamicyoga.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 13:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 12:45:35 GMT</lastBuildDate>
         <atom:link href="http://dynamicyoga.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamic Yoga France]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 26 Jan 2016 10:27:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pranayama en la luz de Consciencia]]></title>
+            <description><![CDATA[<article><h1>Pranayama en la luz de Consciencia</h1><p>Según parece, Pranayama tuvo alguna vez un lugar más central en la práctica de yoga que el que tiene en estos días. Aunque los Yoga Sutras de Patanjali son citados a menudo como el texto central de yoga, lo que se practica actualmente en nombre de yoga, ya sea sobre una esterilla o un cojín, tiene un parecido y una relación más directos con los textos medievales más recientes, como el Hatha Yoga Pradipika.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c6a4d982b876fbc2c63b637f247bbbf/noop.jpg?input=http%3A%2F%2Fyogadinamico.com%2Fimages%2Ffotos%2Fpranayama_post3.jpg"></article>]]></description>
+            <link>http://yogadinamico.com/blog/187-pranayama-en-la-luz-de-consciencia</link>
+            <guid isPermaLink="false">53200217-217d-42d9-91c6-f3aa566328aa</guid>
+            <pubDate>Thu, 14 Jul 2016 12:45:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Retraite urbaine avec Louisa Raszyk 9 et 10 juillet]]></title>
-            <description><![CDATA[<article><h1>Retraite urbaine avec Louisa Raszyk 9 et 10 juillet</h1><p>Je suis ravie d'être de retour à Paris cet été, et d'avoir la posibilité de proposer une retraite urbaine au Red Earth Centre, pour tous ceux qui souhaitent faire l'expérience d'une retraite de yoga sans quitter la belle ville de Paris!</p><img src="http://www.redearthcentre.com/fr/wp-content/uploads/2015/08/2015-02-22-14.27.33-e1438604732300.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Retraite urbaine avec Louisa Raszyk 9 et 10 juillet</h1><p>Je suis ravie d'être de retour à Paris cet été, et d'avoir la posibilité de proposer une retraite urbaine au Red Earth Centre, pour tous ceux qui souhaitent faire l'expérience d'une retraite de yoga sans quitter la belle ville de Paris!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fbb58fd3e44595d73b1a530a8c818e5/noop.jpg?input=http%3A%2F%2Fwww.redearthcentre.com%2Ffr%2Fwp-content%2Fuploads%2F2015%2F08%2F2015-02-22-14.27.33-e1438604732300.jpg"></article>]]></description>
             <link>http://www.redearthcentre.com/fr/?p=1064</link>
             <guid isPermaLink="false">1be96975-6ded-45bf-b457-893dafde6f86</guid>
             <pubDate>Sat, 18 Jun 2016 13:20:44 GMT</pubDate>
@@ -67,13 +74,6 @@
             <link>https://soundcloud.com/godfridev/what-makes-a-yoga-posture</link>
             <guid isPermaLink="false">06962349-f799-45dd-a233-dc7e2865632a</guid>
             <pubDate>Mon, 15 Feb 2016 19:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BEING THE LOVE THAT YOU ARE by godfridev]]></title>
-            <description><![CDATA[<article><h1>BEING THE LOVE THAT YOU ARE by godfridev</h1><p>a little look into the depths of being human</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da169e56e6afe2a82049370c1d91f33f7dd380b7.jpg"></article>]]></description>
-            <link>https://soundcloud.com/godfridev/being-the-love-that-you-are</link>
-            <guid isPermaLink="false">b315f1a1-f417-4ee8-9353-fb5da143ca47</guid>
-            <pubDate>Mon, 15 Feb 2016 19:17:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
