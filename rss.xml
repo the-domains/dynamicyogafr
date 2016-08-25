@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamic Yoga France]]></description>
         <link>http://dynamicyoga.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 19:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 19:22:43 GMT</lastBuildDate>
         <atom:link href="http://dynamicyoga.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamic Yoga France]]></title>
@@ -12,6 +12,13 @@
             <link>http://dynamicyoga.fr/c38d5f70-2fa9-468d-be1e-9aaa6e744e1a/index.html</link>
             <guid isPermaLink="false">c38d5f70-2fa9-468d-be1e-9aaa6e744e1a</guid>
             <pubDate>Thu, 25 Aug 2016 19:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Séquence finale courte]]></title>
+            <description><![CDATA[<article><h1>Séquence finale courte</h1><p>Une séquence courte avec des ullolas sur le dos et une inversion simple. Cette séquence peut servir comme fin de la pratique, mais est aussi idéale pour constituer en soi même une pratique courte et restorative..</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0e9cf8983dd30e8de870e77f47cc878/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FR-ZaUknwm_M%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=R-ZaUknwm_M</link>
+            <guid isPermaLink="false">0bd5b764-653e-446f-8ea6-2f032b89e9a1</guid>
+            <pubDate>Thu, 25 Aug 2016 19:22:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Séquence assise simple]]></title>
@@ -68,13 +75,6 @@
             <link>http://us9.campaign-archive1.com/?u=15340f9a5862715e9fd4318dd&amp;id=6c71309271</link>
             <guid isPermaLink="false">0c256bd4-4703-4a0a-819c-af945d6433c1</guid>
             <pubDate>Sat, 04 Jun 2016 15:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EXPERIENCE OF WHOLENESS by godfridev]]></title>
-            <description><![CDATA[<article><h1>EXPERIENCE OF WHOLENESS by godfridev</h1><p>The experience of wholeness is required to contextualise and mitigate the disturbing power of the sense of separateness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfcdeb2735db6c7b424ccf4bdc3cff53fc40de2b.jpg"></article>]]></description>
-            <link>https://soundcloud.com/godfridev/experience-of-wholeness</link>
-            <guid isPermaLink="false">35b95f8a-b197-41c9-aca9-d6abf685e1e9</guid>
-            <pubDate>Sat, 14 May 2016 17:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
