@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamic Yoga France]]></description>
         <link>http://dynamicyoga.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 19:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 19:22:30 GMT</lastBuildDate>
         <atom:link href="http://dynamicyoga.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamic Yoga France]]></title>
@@ -12,6 +12,13 @@
             <link>http://dynamicyoga.fr/c38d5f70-2fa9-468d-be1e-9aaa6e744e1a/index.html</link>
             <guid isPermaLink="false">c38d5f70-2fa9-468d-be1e-9aaa6e744e1a</guid>
             <pubDate>Thu, 25 Aug 2016 19:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Séquence assise simple]]></title>
+            <description><![CDATA[<article><h1>Séquence assise simple</h1><p>Une séquence assise simple qui pourrait suivre au Xandranamaskar. Il s'agit seulement d'un exemple, il y a beaucoup de possibilités mais cet exemple pourrait servir à une pratique courte de quelque 20 minutes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c88e90c9ebd00af39bf8c78f03f5a63/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F8fPus4-92RY%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=8fPus4-92RY</link>
+            <guid isPermaLink="false">30115bf3-b149-4087-88b8-0b3d8b099479</guid>
+            <pubDate>Thu, 25 Aug 2016 19:22:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Xandranamaskar]]></title>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/godfridev/experience-of-wholeness</link>
             <guid isPermaLink="false">35b95f8a-b197-41c9-aca9-d6abf685e1e9</guid>
             <pubDate>Sat, 14 May 2016 17:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xandranamaskar]]></title>
-            <description><![CDATA[<p>Xandranamaskar</p>]]></description>
-            <link>https://www.youtube.com/watch?v=8H1q2b3FtG0</link>
-            <guid isPermaLink="false">73d8895d-05b3-4371-9a6f-0938465d1b98</guid>
-            <pubDate>Tue, 26 Apr 2016 17:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
