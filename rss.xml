@@ -4,7 +4,7 @@
         <description><![CDATA[Dynamic Yoga France]]></description>
         <link>http://dynamicyoga.fr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 19:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 17:43:18 GMT</lastBuildDate>
         <atom:link href="http://dynamicyoga.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dynamic Yoga France]]></title>
@@ -12,6 +12,13 @@
             <link>http://dynamicyoga.fr/c38d5f70-2fa9-468d-be1e-9aaa6e744e1a/index.html</link>
             <guid isPermaLink="false">c38d5f70-2fa9-468d-be1e-9aaa6e744e1a</guid>
             <pubDate>Thu, 14 Jul 2016 12:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Septembre 2016 - " Master class " exceptionnelle avec Godfrey Devereux - Yoga Searcher Hossegor]]></title>
+            <description><![CDATA[<article><h1>Septembre 2016 - " Master class " exceptionnelle avec Godfrey Devereux - Yoga Searcher Hossegor</h1><p>" Master class " exceptionnelle avec Godfrey Devereux - Workshop " Tantra Yoga " les 10 et 11 septembre 2016 Au fil de nombreuses années de pratique et de recherche, Godfrey Devereux a développé "The Dynamic Yoga Method" (www.dynamicyoga.com). Son enseignement est exceptionnel et que vous ... Lire la suite</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3de4b4a00fa43931d754085e78f1f877/noop.jpg?input=http%3A%2F%2Fwww.yogasearcher-hossegor.com%2Fwp-content%2Fuploads%2F2015%2F01%2Farticle-godfrey-devereux1.jpg"></article>]]></description>
+            <link>http://www.yogasearcher-hossegor.com/fr/septembre-2016-godfrey-devereux/</link>
+            <guid isPermaLink="false">a85017b5-0918-4266-8c02-56704ed63440</guid>
+            <pubDate>Thu, 25 Aug 2016 17:42:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pranayama en la luz de Consciencia]]></title>
@@ -67,13 +74,6 @@
             <link>https://www.youtube.com/watch?v=8H1q2b3FtG0</link>
             <guid isPermaLink="false">73d8895d-05b3-4371-9a6f-0938465d1b98</guid>
             <pubDate>Tue, 26 Apr 2016 17:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YOGA AND TRANSCENDENTAL IDEOLOGY by godfridev]]></title>
-            <description><![CDATA[<article><h1>YOGA AND TRANSCENDENTAL IDEOLOGY by godfridev</h1><p>a talk on the dangers of transcendental ideology to yoga posture praxis</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79157eddfe3856017e3cfd1099616b72fdee913e.jpg"></article>]]></description>
-            <link>https://soundcloud.com/godfridev/yoga-and-transcendental-ideology</link>
-            <guid isPermaLink="false">c546a07d-dbad-4b31-a4a6-4b4490dfe541</guid>
-            <pubDate>Mon, 15 Feb 2016 19:21:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
