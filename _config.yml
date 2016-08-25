@@ -1,7 +1,18 @@
+layout_spectrum: 0.14092
+typography_spectrum: 0.469523640582338
+color:
+  brandColors:
+    - '#b2b181'
+    - '#ba8887'
+    - '#b85957'
+    - '#3c2f07'
+    - '#5a9370'
+  brandStrength: 0.0625
+  lightness: 0.4375
+  saturation: 0.125
+  rhythmicContrast: 0.5
 name: Dynamicyogafrance
 favicon: null
-layout_spectrum: 0.14092
-typography_spectrum: 0.30027
 title: Dynamic Yoga France
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#b2b181'
-    - '#ba8887'
-    - '#b85957'
-    - '#3c2f07'
-    - '#5a9370'
-  brandStrength: 0.0625
-  lightness: 0.4375
-  saturation: 0.125
-  rhythmicContrast: 0.5
 purpose: []
