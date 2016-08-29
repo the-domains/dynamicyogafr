@@ -28,6 +28,9 @@ navigation:
   - name: Red Earth Centre
     url: 'http://www.redearthcentre.com'
     type: external
+  - name: About
+    id: 61b4e90c-5ae8-4084-9c6d-f5d366620dce
+    type: content
 favicon: null
 title: Dynamic Yoga France
 purpose: []
