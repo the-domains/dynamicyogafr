@@ -31,6 +31,9 @@ navigation:
   - name: About
     id: 61b4e90c-5ae8-4084-9c6d-f5d366620dce
     type: content
+  - name: Dynamic Yoga Training Method
+    url: 'http://dynamicyoga.com'
+    type: external
 favicon: null
 title: Dynamic Yoga France
 purpose: []
