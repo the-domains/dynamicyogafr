@@ -1,4 +1,3 @@
-layout_spectrum: 0.6805078738834709
 typography_spectrum: 0.3509579529054463
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6805078738834709
 analytics:
   google: null
   facebook: null
@@ -37,6 +37,7 @@ navigation:
   - name: 'About Dynamic Yoga '
     id: 7924b56d-60ad-48d2-8946-16de67c1e3ca
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac8de1ba-f8a8-4271-81a8-f9d1b105078e.ico
 title: Dynamic Yoga France
 purpose: []
